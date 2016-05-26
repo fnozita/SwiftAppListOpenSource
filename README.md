@@ -20,18 +20,18 @@ Swift App In AppStore | 收集已上架的Swift开源App；
 ###OSX
 | 应用名称 | 应用图标 | 应用介绍 | 项目地址 |
 | :----------- | :----------- | :----------- | :----------- |
-| AndroidTool  | ![](http://7xl2dx.com1.z0.glb.clouddn.com/AndroidTool.png)  | 在 Mac 上使用的 Android 工具（一键截屏, 视频录制, APK 安装等）. | [项目地址](https://github.com/mortenjust/androidtool-mac)
-| Cleartext | ![](http://7xl2dx.com1.z0.glb.clouddn.com/Cleartext.png)  | 提供一千个常用单词的编辑器. | [项目地址](https://github.com/mortenjust/cleartext-mac)
-| Drop to GIF  | ![](http://www.macupdate.com/images/icons256/55693.png)  | 将视频转换为 GIF 动画. | [项目地址](https://github.com/mortenjust/droptogif)
-| Markoff | ![](http://a4.mzstatic.com/us/r30/Purple49/v4/7e/81/e3/7e81e374-4f8a-710a-bcc6-c13da80cc9ba/icon128-2x.png)  | A Lightweight Markdown Previewer. | [项目地址](https://github.com/thoughtbot/Markoff)
-| QingDict | ![](https://raw.githubusercontent.com/yingDev/QingDict/master/.readmeImages/qingdict.png)  | 轻量级、实用主义的词典程序 for OSX. | [项目地址](https://github.com/yingDev/QingDict)
-| WWDC | ![](http://7xl2dx.com1.z0.glb.clouddn.com/wwdcMacAppIcon.png)  | Use this app to watch WWDC sessions on your Mac. | [项目地址](https://github.com/insidegui/WWDC)
+| AndroidTool  | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_AndroidTool.png)  | 在 Mac 上使用的 Android 工具（一键截屏, 视频录制, APK 安装等）. | [项目地址](https://github.com/mortenjust/androidtool-mac)
+| Cleartext | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_Cleartext.png)  | 提供一千个常用单词的编辑器. | [项目地址](https://github.com/mortenjust/cleartext-mac)
+| Drop to GIF  | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_DropToGif.png)  | 将视频转换为 GIF 动画. | [项目地址](https://github.com/mortenjust/droptogif)
+| Markoff | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_Markoff.png)  | A Lightweight Markdown Previewer. | [项目地址](https://github.com/thoughtbot/Markoff)
+| QingDict | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_QingDict.png)  | 轻量级、实用主义的词典程序 for OSX. | [项目地址](https://github.com/yingDev/QingDict)
+| WWDC | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_WWDCMac.png)  | Use this app to watch WWDC sessions on your Mac. | [项目地址](https://github.com/insidegui/WWDC)
 
 
 ###AppleTV
 | 应用名称 | 应用图标 | 应用介绍 | 项目地址 |
 | :----------- | :----------- | :----------- | :----------- |
-| BrowserTV | ![](http://7xl2dx.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-05-26%20%E4%B8%8A%E5%8D%889.13.07.png)  | 可交互 Apple TV 浏览器. | [项目地址](https://github.com/zats/BrowserTV)
+| BrowserTV | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_BrowserTV.png)  | 可交互 Apple TV 浏览器. | [项目地址](https://github.com/zats/BrowserTV)
 
 
 ###Xcode插件
