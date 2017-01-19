@@ -27,6 +27,7 @@ Swift App List Open Source | 收集开源的 Swift App；
 | 爆侃 | ![](http://7xl2dx.com1.z0.glb.clouddn.com/sd_baokan.png) | 使用swift语言写的一款新闻资讯类的app. | [项目地址](https://github.com/6ag/BaoKanIOS)
 | 眼科行医手记 | ![](http://is2.mzstatic.com/image/thumb/Purple7/v4/2a/73/1f/2a731fb9-2ba7-d0e2-b7de-8575926265cf/source/100x100bb.jpg) | 眼科行医手记是眼科医生的专业辅助工具，让随身携带的手机为您杂乱复杂的临床病例做收纳整理. | [项目地址](https://github.com/herrkaefer/CaseAssistant)
 | 易便签 | ![](http://is3.mzstatic.com/image/thumb/Purple5/v4/1e/67/99/1e6799a6-fe24-72fb-eee8-e1e0b6c65ee7/source/100x100bb.jpg) | 这是一款简单纯粹的便签应用. | [项目地址](https://github.com/likumb/SimpleMemo)
+| VSCAM | ![](http://is1.mzstatic.com/image/thumb/Purple122/v4/52/2c/b8/522cb81e-25aa-e292-1634-765ceacc49ff/source/175x175bb.jpg) | 摄影 交流 分享 - 极简主义图片分享应用. | [项目地址](https://github.com/EyreFree/VSCAM)
 
 
 
